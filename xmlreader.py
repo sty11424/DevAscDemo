@@ -7,4 +7,7 @@ with open('r1.xml') as file:
 # use the parse method from xmltodict to convert XML string into a Python dictionary and store in data variable
 data = xmltodict.parse(xml_data)
 
-print(data)
+# print(data)
+
+# access and print the interfaces key/section of the router dictionary, first interface IP address
+print(data['router']['interfaces']['interface'][0]['ip'])
