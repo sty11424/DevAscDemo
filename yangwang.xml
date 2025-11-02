@@ -1,0 +1,42 @@
+<Yangwang_U9_Xtreme_Details>
+  <General_Information>
+    <Manufacturer>BYD (Build Your Dreams)</Manufacturer>
+    <Brand>Yangwang (Luxury sub-brand)</Brand>
+    <Model>U9 Xtreme</Model>
+    <Body_Type>2-door fixed-head coupé with 2 seats</Body_Type>
+    <Production_Status>Limited series (30 units worldwide)</Production_Status>
+    <Record_Achievement_Date>September 14, 2025</Record_Achievement_Date>
+    <Designer>Wolfgang Egger</Designer>
+  </General_Information>
+  <Performance_Metrics>
+    <Top_Speed_Verified>496.22 km/h (308.4 mph)</Top_Speed_Verified>
+    <Power_Output_Combined>2220 kW (2977.5 bhp / 3019 PS)</Power_Output_Combined>
+    <Horsepower_Per_Motor>744 hp (555 kW)</Horsepower_Per_Motor>
+    <Acceleration_0_100_kmh>Not officially specified for Xtreme variant (standard U9 is 2.36s)</Acceleration_0_100_kmh>
+    <Nurburgring_Lap_Time>6 minutes 59.157 seconds (Fastest production EV record)</Nurburgring_Lap_Time>
+    <Power_to_Weight_Ratio>1217.29 PS/tonne</Power_to_Weight_Ratio>
+  </Performance_Metrics>
+  <Technical_Specifications>
+    <Platform>World's first series-produced 1,200-volt ultra-high voltage platform</Platform>
+    <Drivetrain>Quad electric motors (all-wheel drive) with independent torque vectoring (e⁴ Platform)</Drivetrain>
+    <Battery>BYD Blade Battery (Lithium Iron Phosphate, LFP) with 30C discharge rate</Battery>
+    <Cooling_System>Re-engineered cooling system with high-flow oil pump and 3D motor cooling solution</Cooling_System>
+    <Suspension>DiSus-X Intelligent Body Control System (active suspension)</Suspension>
+    <Brakes>Titanium alloy brake calipers with carbon-ceramic discs</Brakes>
+    <Tires>GitiSport e·GTR² PRO semi-slicks (bespoke for high speeds)</Tires>
+    <Weight_Kerb>2480 kg (5467 lbs)</Weight_Kerb>
+  </Technical_Specifications>
+  <Dimensions>
+    <Length>4966 mm (195.5 inches)</Length>
+    <Width>2029 mm (79.9 inches)</Width>
+    <Height>1311 mm (51.6 inches)</Height>
+    <Wheelbase>2900 mm (114.2 inches)</Wheelbase>
+  </Dimensions>
+  <Record_Run_Details>
+    <Location>ATP Automotive Testing Papenburg, Germany</Location>
+    <Driver>Marc Basseng</Driver>
+    <Previous_Record_Beaten>Bugatti Chiron Super Sport 300+ (304.77 mph)</Previous_Record_Beaten>
+  </Record_Run_Details>
+  <price currency="USD">$470,000</price>
+</Yangwang_U9_Xtreme_Details>
+

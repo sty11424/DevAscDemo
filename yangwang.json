@@ -1,0 +1,46 @@
+{
+  "Yangwang_U9_Xtreme_Details": {
+    "General_Information": {
+      "Manufacturer": "BYD (Build Your Dreams)",
+      "Brand": "Yangwang (Luxury sub-brand)",
+      "Model": "U9 Xtreme",
+      "Body_Type": "2-door fixed-head coup\u00e9 with 2 seats",
+      "Production_Status": "Limited series (30 units worldwide)",
+      "Record_Achievement_Date": "September 14, 2025",
+      "Designer": "Wolfgang Egger"
+    },
+    "Performance_Metrics": {
+      "Top_Speed_Verified": "496.22 km/h (308.4 mph)",
+      "Power_Output_Combined": "2220 kW (2977.5 bhp / 3019 PS)",
+      "Horsepower_Per_Motor": "744 hp (555 kW)",
+      "Acceleration_0_100_kmh": "Not officially specified for Xtreme variant (standard U9 is 2.36s)",
+      "Nurburgring_Lap_Time": "6 minutes 59.157 seconds (Fastest production EV record)",
+      "Power_to_Weight_Ratio": "1217.29 PS/tonne"
+    },
+    "Technical_Specifications": {
+      "Platform": "World's first series-produced 1,200-volt ultra-high voltage platform",
+      "Drivetrain": "Quad electric motors (all-wheel drive) with independent torque vectoring (e\u2074 Platform)",
+      "Battery": "BYD Blade Battery (Lithium Iron Phosphate, LFP) with 30C discharge rate",
+      "Cooling_System": "Re-engineered cooling system with high-flow oil pump and 3D motor cooling solution",
+      "Suspension": "DiSus-X Intelligent Body Control System (active suspension)",
+      "Brakes": "Titanium alloy brake calipers with carbon-ceramic discs",
+      "Tires": "GitiSport e\u00b7GTR\u00b2 PRO semi-slicks (bespoke for high speeds)",
+      "Weight_Kerb": "2480 kg (5467 lbs)"
+    },
+    "Dimensions": {
+      "Length": "4966 mm (195.5 inches)",
+      "Width": "2029 mm (79.9 inches)",
+      "Height": "1311 mm (51.6 inches)",
+      "Wheelbase": "2900 mm (114.2 inches)"
+    },
+    "Record_Run_Details": {
+      "Location": "ATP Automotive Testing Papenburg, Germany",
+      "Driver": "Marc Basseng",
+      "Previous_Record_Beaten": "Bugatti Chiron Super Sport 300+ (304.77 mph)"
+    },
+    "price": {
+      "@currency": "USD",
+      "#text": "$470,000"
+    }
+  }
+}
